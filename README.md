@@ -1,6 +1,6 @@
 # Masked Release-Constraint Reconstruction Dataset
 
-An original synthetic CPU benchmark for reconstructing hidden release-policy constraints from anonymized historical deployment probes: 900 independent cases, each with 22 opaque components, six environments, 96 historical probes with pass/fail outcomes and noisy diagnostic tokens, and a hidden graph of directed `requires` rules, unordered `conflicts`, and environment-only `gates`.
+An original synthetic CPU benchmark for reconstructing hidden release-policy constraints from anonymized historical deployment probes: 900 independent cases, each with 22 opaque components, six environments, 192 historical probes with pass/fail outcomes and noisy diagnostic tokens, and a hidden graph of directed `requires` rules, unordered `conflicts`, and environment-only `gates`.
 
 ## The withheld secret
 
